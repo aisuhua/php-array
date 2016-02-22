@@ -1,0 +1,11 @@
+{
+    "name": "suhua/php-array",
+    "description": null,
+    "authors": [
+        {
+            "name": "aisuhua",
+            "email": "1079087531@qq.com"
+        }
+    ],
+    "require": {}
+}
