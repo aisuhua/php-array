@@ -3,9 +3,7 @@
 
 对 PHP 数组的常用操作进行封装，目前包括以下方法：`arrayColumn` （提供 PHP < 5.5.0 版本对 `array_column` 的支持）、`objectToArray` 把对象转换为数组。
 
-其中，对 `array_column` 参照了 array_column 了。如果只需要对 `array_column` 的支持，推荐直接引入原作者的库即可。
-
-https://github.com/ramsey/array_column
+其中，对 `array_column` 参照了 [array_column](https://github.com/ramsey/array_column)，如果只需要对 `array_column` 的支持，推荐直接引入原作者的库即可。
 
 ## 安装
 
